@@ -73,6 +73,11 @@ Linux: [![Circle CI](https://circleci.com/gh/conda-forge/epic2cf-feedstock.svg?s
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/epic2cf-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/epic2cf-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/epic2cf-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/epic2cf-feedstock/branch/master)
 
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/epic2cf/badges/version.svg)](https://anaconda.org/conda-forge/epic2cf)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/epic2cf/badges/downloads.svg)](https://anaconda.org/conda-forge/epic2cf)
+
 
 Updating epic2cf-feedstock
 ==========================
