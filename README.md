@@ -5,7 +5,7 @@ Home: https://github.com/axiom-data-science/epic2cf
 
 Package license: MIT License
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: A simple python library to find the CF standard name equivalent of an EPIC code
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/epic2cf-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/epic2cf-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/epic2cf-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/epic2cf-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/epic2cf-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/epic2cf-feedstock/branch/master)
