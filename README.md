@@ -11,6 +11,18 @@ Summary: A simple python library to find the CF standard name equivalent of an E
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/epic2cf-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/epic2cf-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/epic2cf-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/epic2cf-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/epic2cf-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/epic2cf-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/epic2cf/badges/version.svg)](https://anaconda.org/conda-forge/epic2cf)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/epic2cf/badges/downloads.svg)](https://anaconda.org/conda-forge/epic2cf)
+
 Installing epic2cf
 ==================
 
@@ -31,7 +43,6 @@ It is possible to list all of the versions of `epic2cf` available on your platfo
 ```
 conda search epic2cf --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -67,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/epic2cf-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/epic2cf-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/epic2cf-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/epic2cf-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/epic2cf-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/epic2cf-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/epic2cf/badges/version.svg)](https://anaconda.org/conda-forge/epic2cf)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/epic2cf/badges/downloads.svg)](https://anaconda.org/conda-forge/epic2cf)
 
 
 Updating epic2cf-feedstock
