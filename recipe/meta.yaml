@@ -5,20 +5,18 @@ package:
   version: {{ version }}
 
 source:
-  fn: epic2cf-{{ version }}.tar.gz
   url: https://github.com/axiom-data-science/epic2cf/archive/{{ version }}.tar.gz
   sha256: 5fed51f0049cde6c3eddde193c5b549052e0314bb6d080c1f8b2d3cde3bde480
 
 build:
   noarch: python
   number: 0
-  script: python -m pip install --no-deps --ignore-installed .
+  script: "{{ PYTHON }} -m pip install . --no-deps -vv"
 
 requirements:
   host:
     - pip
     - python
-    - setuptools
     - numpy
   run:
     - python
