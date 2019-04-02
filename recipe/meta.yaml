@@ -31,6 +31,8 @@ test:
 about:
   home: https://github.com/axiom-data-science/epic2cf
   license: MIT
+  license_family: MIT
+  license_file: LICENSE.txt
   summary: 'A simple python library to find the CF standard name equivalent of an EPIC code.'
 
 extra:
